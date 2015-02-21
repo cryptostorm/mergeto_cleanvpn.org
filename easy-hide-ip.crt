@@ -1,0 +1,65 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 9461636220206161576 (0x834e7c032b5b9ea8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=EasyTech/emailAddress=support@easy-hide-ip.com, L=Valencia, ST=State or Providence, C=ES, CN=EasyTech
+        Validity
+            Not Before: Jul 29 16:47:09 2010 GMT
+            Not After : Jul 28 16:47:09 2015 GMT
+        Subject: O=EasyTech/emailAddress=support@easy-hide-ip.com, L=Valencia, ST=State or Providence, C=ES, CN=EasyTech
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b0:9b:0d:21:36:96:d8:34:a6:16:ac:d5:e6:a2:
+                    d5:1c:07:1e:9c:ca:6c:06:a9:a5:53:6c:18:c0:55:
+                    f3:88:bc:2a:1a:62:df:c9:cb:ea:9f:1c:09:35:d6:
+                    ef:48:32:63:cf:c7:a7:5f:c4:11:17:c0:c4:15:60:
+                    9c:96:f9:a1:e3:19:23:ac:7d:ce:58:bc:71:9a:9a:
+                    17:69:b8:a9:b1:b2:df:fb:54:92:69:79:8e:a4:8d:
+                    fc:3b:3b:c6:35:45:00:87:16:e1:5b:54:d7:86:47:
+                    d0:a7:fa:24:41:2a:e7:09:5f:6e:77:8b:70:42:ed:
+                    d8:e8:81:d1:78:30:80:e3:27
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                BE:79:17:F4:D4:05:65:4C:ED:08:07:80:2F:CA:2C:A3:DA:B9:E1:F5
+            X509v3 Authority Key Identifier: 
+                keyid:BE:79:17:F4:D4:05:65:4C:ED:08:07:80:2F:CA:2C:A3:DA:B9:E1:F5
+                DirName:/O=EasyTech/emailAddress=support@easy-hide-ip.com/L=Valencia/ST=State or Providence/C=ES/CN=EasyTech
+                serial:83:4E:7C:03:2B:5B:9E:A8
+
+    Signature Algorithm: sha1WithRSAEncryption
+         6b:94:b2:4c:8c:c3:6c:2b:f6:e0:b5:8f:50:45:cb:ff:e7:fd:
+         6e:36:7d:6f:f9:76:2a:18:5e:1d:81:35:d4:ae:c7:2c:4e:f7:
+         90:57:ec:3d:fd:43:96:d5:3d:92:c4:3b:e4:38:1f:bc:08:8c:
+         ce:45:76:cf:de:44:a5:7c:e5:30:da:8c:27:f9:08:12:f0:ab:
+         8c:77:b6:69:a9:d3:33:26:2e:ad:4a:af:e3:ee:6f:c2:1a:f3:
+         5c:4a:76:6d:bb:ec:ff:c6:3e:bd:a7:8c:a6:1e:17:cc:17:61:
+         c2:f0:5d:b8:79:6c:68:fa:d7:fb:88:f9:c9:6c:59:0e:96:59:
+         a1:df
+-----BEGIN CERTIFICATE-----
+MIIDkDCCAvmgAwIBAgIJAINOfAMrW56oMA0GCSqGSIb3DQEBBQUAMIGNMREwDwYD
+VQQKEwhFYXN5VGVjaDEnMCUGCSqGSIb3DQEJARYYc3VwcG9ydEBlYXN5LWhpZGUt
+aXAuY29tMREwDwYDVQQHEwhWYWxlbmNpYTEcMBoGA1UECBMTU3RhdGUgb3IgUHJv
+dmlkZW5jZTELMAkGA1UEBhMCRVMxETAPBgNVBAMTCEVhc3lUZWNoMB4XDTEwMDcy
+OTE2NDcwOVoXDTE1MDcyODE2NDcwOVowgY0xETAPBgNVBAoTCEVhc3lUZWNoMScw
+JQYJKoZIhvcNAQkBFhhzdXBwb3J0QGVhc3ktaGlkZS1pcC5jb20xETAPBgNVBAcT
+CFZhbGVuY2lhMRwwGgYDVQQIExNTdGF0ZSBvciBQcm92aWRlbmNlMQswCQYDVQQG
+EwJFUzERMA8GA1UEAxMIRWFzeVRlY2gwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJ
+AoGBALCbDSE2ltg0phas1eai1RwHHpzKbAappVNsGMBV84i8Khpi38nL6p8cCTXW
+70gyY8/Hp1/EERfAxBVgnJb5oeMZI6x9zli8cZqaF2m4qbGy3/tUkml5jqSN/Ds7
+xjVFAIcW4VtU14ZH0Kf6JEEq5wlfbneLcELt2OiB0XgwgOMnAgMBAAGjgfUwgfIw
+DAYDVR0TBAUwAwEB/zAdBgNVHQ4EFgQUvnkX9NQFZUztCAeAL8oso9q54fUwgcIG
+A1UdIwSBujCBt4AUvnkX9NQFZUztCAeAL8oso9q54fWhgZOkgZAwgY0xETAPBgNV
+BAoTCEVhc3lUZWNoMScwJQYJKoZIhvcNAQkBFhhzdXBwb3J0QGVhc3ktaGlkZS1p
+cC5jb20xETAPBgNVBAcTCFZhbGVuY2lhMRwwGgYDVQQIExNTdGF0ZSBvciBQcm92
+aWRlbmNlMQswCQYDVQQGEwJFUzERMA8GA1UEAxMIRWFzeVRlY2iCCQCDTnwDK1ue
+qDANBgkqhkiG9w0BAQUFAAOBgQBrlLJMjMNsK/bgtY9QRcv/5/1uNn1v+XYqGF4d
+gTXUrscsTveQV+w9/UOW1T2SxDvkOB+8CIzORXbP3kSlfOUw2own+QgS8KuMd7Zp
+qdMzJi6tSq/j7m/CGvNcSnZtu+z/xj69p4ymHhfMF2HC8F24eWxo+tf7iPnJbFkO
+llmh3w==
+-----END CERTIFICATE-----
