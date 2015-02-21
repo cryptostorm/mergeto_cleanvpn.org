@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 12216218111797535820 (0xa988b9a5fc62a44c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IL, ST=NA, L=TLV, O=Komodia, OU=SSL, CN=Barak/emailAddress=sales@komodia.com
+        Validity
+            Not Before: May 10 03:56:13 2009 GMT
+            Not After : Jun  9 03:56:13 2009 GMT
+        Subject: C=IL, ST=NA, L=TLV, O=Komodia, OU=SSL, CN=Barak/emailAddress=sales@komodia.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c1:0a:97:50:d8:0f:1f:be:32:cc:f7:f8:00:88:
+                    82:b3:4a:33:2b:96:ea:08:3e:96:32:0c:b2:0d:99:
+                    12:6e:7b:88:86:99:6b:ec:eb:9e:56:85:50:14:f2:
+                    57:37:25:70:8c:cb:a6:55:d0:f4:74:5a:6d:20:2e:
+                    9f:b2:19:fb:15:9f:0c:80:b9:56:df:e8:18:d6:82:
+                    c2:7c:5d:2d:a0:00:d0:d3:0d:af:a8:c7:fa:1f:dd:
+                    5c:32:38:b0:96:b7:99:61:59:fd:d5:ed:95:c1:ae:
+                    95:02:72:23:00:c5:8f:4c:4a:d3:6d:07:b1:09:6d:
+                    31:64:08:cf:53:f5:ed:7e:01
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         93:f9:4c:34:71:ae:bf:eb:e9:0a:0a:dc:7d:e7:f4:19:a1:6d:
+         8c:b1:17:66:ec:95:34:49:3b:20:3c:6a:b9:a0:09:cc:2c:43:
+         93:1d:48:c2:8f:f4:e2:7b:f7:77:97:11:f9:8d:e2:17:38:46:
+         41:5b:57:a3:f5:66:a4:6f:dd:76:0b:b5:a0:21:3a:00:4b:42:
+         35:9c:58:63:84:cb:79:65:09:43:7a:fd:f2:99:6f:88:b5:45:
+         e4:22:98:4e:26:5b:f6:32:73:7b:e5:c7:48:a4:8f:e5:3f:8b:
+         f6:97:71:df:26:41:f6:d0:87:9a:87:06:6b:ab:5a:27:39:9e:
+         41:96
+         
+        
+-----BEGIN CERTIFICATE-----
+MIICazCCAdQCCQCpiLml/GKkTDANBgkqhkiG9w0BAQUFADB6MQswCQYDVQQGEwJJ
+TDELMAkGA1UECBMCTkExDDAKBgNVBAcTA1RMVjEQMA4GA1UEChMHS29tb2RpYTEM
+MAoGA1UECxMDU1NMMQ4wDAYDVQQDEwVCYXJhazEgMB4GCSqGSIb3DQEJARYRc2Fs
+ZXNAa29tb2RpYS5jb20wHhcNMDkwNTEwMDM1NjEzWhcNMDkwNjA5MDM1NjEzWjB6
+MQswCQYDVQQGEwJJTDELMAkGA1UECBMCTkExDDAKBgNVBAcTA1RMVjEQMA4GA1UE
+ChMHS29tb2RpYTEMMAoGA1UECxMDU1NMMQ4wDAYDVQQDEwVCYXJhazEgMB4GCSqG
+SIb3DQEJARYRc2FsZXNAa29tb2RpYS5jb20wgZ8wDQYJKoZIhvcNAQEBBQADgY0A
+MIGJAoGBAMEKl1DYDx++Msz3+ACIgrNKMyuW6gg+ljIMsg2ZEm57iIaZa+zrnlaF
+UBTyVzclcIzLplXQ9HRabSAun7IZ+xWfDIC5Vt/oGNaCwnxdLaAA0NMNr6jH+h/d
+XDI4sJa3mWFZ/dXtlcGulQJyIwDFj0xK020HsQltMWQIz1P17X4BAgMBAAEwDQYJ
+KoZIhvcNAQEFBQADgYEAk/lMNHGuv+vpCgrcfef0GaFtjLEXZuyVNEk7IDxquaAJ
+zCxDkx1Iwo/04nv3d5cR+Y3iFzhGQVtXo/VmpG/ddgu1oCE6AEtCNZxYY4TLeWUJ
+Q3r98plviLVF5CKYTiZb9jJze+XHSKSP5T+L9pdx3yZB9tCHmocGa6taJzmeQZY=
+-----END CERTIFICATE-----
