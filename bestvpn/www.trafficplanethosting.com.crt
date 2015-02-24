@@ -1,0 +1,103 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 59271 (0xe787)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=GeoTrust Inc., CN=RapidSSL SHA256 CA - G3
+        Validity
+            Not Before: Dec  3 08:41:40 2014 GMT
+            Not After : Jan  5 05:23:43 2016 GMT
+        Subject: OU=GT34783605, OU=See www.rapidssl.com/resources/cps (c)14, OU=Domain Control Validated - RapidSSL(R), CN=www.trafficplanethosting.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:98:8e:3a:b0:bd:75:61:4b:77:7f:5d:4f:9c:8e:
+                    c8:4b:5d:83:f3:5b:f8:f9:2d:c3:7b:bb:62:bc:3f:
+                    c7:65:12:72:97:03:2b:22:6e:1f:63:f1:82:d4:7f:
+                    dc:92:ec:8c:68:1d:9f:45:19:44:6b:bf:30:d1:8c:
+                    ab:dd:8c:07:57:61:4b:b3:fe:ee:c5:52:86:46:02:
+                    cf:57:68:d5:a8:ec:6d:0b:30:8d:c8:d4:1c:fd:10:
+                    3b:0f:aa:c0:0d:0b:ad:79:c2:1b:33:a4:d6:5e:4d:
+                    c1:b5:1a:8d:a5:df:ac:fd:89:1e:21:bf:79:50:f7:
+                    d4:b1:de:ab:35:48:88:38:da:29:c0:8a:fc:3f:28:
+                    fc:31:8a:f3:ff:c2:6d:cd:a7:3e:d6:8d:2e:3c:ed:
+                    da:0c:80:73:bd:8b:1e:f6:dc:e3:5d:47:1a:71:17:
+                    c9:7b:6d:bd:cc:7f:3b:28:15:f2:98:b5:81:69:bf:
+                    a7:64:5e:f1:66:45:3b:23:e9:bf:c9:d5:7e:48:aa:
+                    64:24:77:a5:3e:f4:58:ad:d5:cb:72:22:a6:24:63:
+                    70:ea:c3:aa:a7:fd:f2:93:5b:e3:94:8e:03:bf:17:
+                    3b:6a:a9:69:71:96:7e:af:a8:81:04:41:69:d9:24:
+                    80:87:f0:e4:2a:b8:24:88:21:9d:d9:1d:f8:5d:a1:
+                    57:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C3:9C:F3:FC:D3:46:08:34:BB:CE:46:7F:A0:7C:5B:F3:E2:08:CB:59
+
+            Authority Information Access: 
+                OCSP - URI:http://gv.symcd.com
+                CA Issuers - URI:http://gv.symcb.com/gv.crt
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:www.trafficplanethosting.com, DNS:trafficplanethosting.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://gv.symcb.com/gv.crl
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: https://www.rapidssl.com/legal
+
+    Signature Algorithm: sha256WithRSAEncryption
+         6e:60:8a:9e:de:1d:e2:3f:f6:7d:d6:56:0e:50:a8:fe:04:01:
+         ad:64:41:a9:4c:79:85:27:97:f8:e4:94:b8:ea:f2:c4:98:98:
+         d2:46:cf:0c:28:f5:19:3f:be:28:21:ee:38:a5:5f:f8:c2:07:
+         6e:da:a0:ba:32:08:cf:f4:af:1a:be:0d:d0:00:23:f7:bf:b7:
+         bb:4b:fd:74:50:98:fc:50:03:7b:79:89:b7:75:f2:3b:32:ef:
+         4d:fe:aa:5e:60:32:09:83:bd:c6:74:ef:48:3f:90:00:da:de:
+         e7:d4:0a:86:23:eb:3d:1b:1e:cf:92:4c:f9:5c:ee:52:94:13:
+         a2:cf:cb:40:81:de:da:b4:8b:51:88:6f:97:55:9f:4f:79:1f:
+         df:ee:cd:b9:1e:30:e3:12:d9:81:61:67:54:62:18:8e:fd:c9:
+         36:4b:5a:9d:bf:03:eb:ab:72:c3:a4:62:f0:f7:59:e3:fe:ad:
+         71:13:3c:e9:a0:9f:c6:6c:82:5a:93:1e:18:c5:9a:ef:1d:77:
+         3a:51:ed:01:6a:4c:f2:b4:14:58:c1:17:4f:a9:1e:f8:62:63:
+         f1:2f:e5:3e:00:17:c4:51:4a:4d:dc:7e:35:20:97:e3:c4:ef:
+         1c:2d:fd:d2:88:60:e4:da:93:25:4a:71:49:92:a3:65:ba:fe:
+         c6:79:e6:02
+         
+         -----BEGIN CERTIFICATE-----
+MIIE2TCCA8GgAwIBAgIDAOeHMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVT
+MRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMSAwHgYDVQQDExdSYXBpZFNTTCBTSEEy
+NTYgQ0EgLSBHMzAeFw0xNDEyMDMwODQxNDBaFw0xNjAxMDUwNTIzNDNaMIGgMRMw
+EQYDVQQLEwpHVDM0NzgzNjA1MTEwLwYDVQQLEyhTZWUgd3d3LnJhcGlkc3NsLmNv
+bS9yZXNvdXJjZXMvY3BzIChjKTE0MS8wLQYDVQQLEyZEb21haW4gQ29udHJvbCBW
+YWxpZGF0ZWQgLSBSYXBpZFNTTChSKTElMCMGA1UEAxMcd3d3LnRyYWZmaWNwbGFu
+ZXRob3N0aW5nLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJiO
+OrC9dWFLd39dT5yOyEtdg/Nb+Pktw3u7Yrw/x2UScpcDKyJuH2PxgtR/3JLsjGgd
+n0UZRGu/MNGMq92MB1dhS7P+7sVShkYCz1do1ajsbQswjcjUHP0QOw+qwA0LrXnC
+GzOk1l5NwbUajaXfrP2JHiG/eVD31LHeqzVIiDjaKcCK/D8o/DGK8//Cbc2nPtaN
+Ljzt2gyAc72LHvbc411HGnEXyXttvcx/OygV8pi1gWm/p2Re8WZFOyPpv8nVfkiq
+ZCR3pT70WK3Vy3IipiRjcOrDqqf98pNb45SOA78XO2qpaXGWfq+ogQRBadkkgIfw
+5Cq4JIghndkd+F2hV68CAwEAAaOCAXIwggFuMB8GA1UdIwQYMBaAFMOc8/zTRgg0
+u85Gf6B8W/PiCMtZMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYTaHR0cDov
+L2d2LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL2d2LnN5bWNiLmNvbS9n
+di5jcnQwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+BQcDAjBBBgNVHREEOjA4ghx3d3cudHJhZmZpY3BsYW5ldGhvc3RpbmcuY29tghh0
+cmFmZmljcGxhbmV0aG9zdGluZy5jb20wKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDov
+L2d2LnN5bWNiLmNvbS9ndi5jcmwwDAYDVR0TAQH/BAIwADBFBgNVHSAEPjA8MDoG
+CmCGSAGG+EUBBzYwLDAqBggrBgEFBQcCARYeaHR0cHM6Ly93d3cucmFwaWRzc2wu
+Y29tL2xlZ2FsMA0GCSqGSIb3DQEBCwUAA4IBAQBuYIqe3h3iP/Z91lYOUKj+BAGt
+ZEGpTHmFJ5f45JS46vLEmJjSRs8MKPUZP74oIe44pV/4wgdu2qC6MgjP9K8avg3Q
+ACP3v7e7S/10UJj8UAN7eYm3dfI7Mu9N/qpeYDIJg73GdO9IP5AA2t7n1AqGI+s9
+Gx7Pkkz5XO5SlBOiz8tAgd7atItRiG+XVZ9PeR/f7s25HjDjEtmBYWdUYhiO/ck2
+S1qdvwPrq3LDpGLw91nj/q1xEzzpoJ/GbIJakx4YxZrvHXc6Ue0BakzytBRYwRdP
+qR74YmPxL+U+ABfEUUpN3H41IJfjxO8cLf3SiGDk2pMlSnFJkqNluv7GeeYC
+-----END CERTIFICATE-----
