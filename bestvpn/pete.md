@@ -14,3 +14,7 @@ http://landing.buffered.com/unblock-content-pete/feed/
 
 Here's the affiliate tracking software they use:
 https://www.postaffiliatepro.com/
+
+
+Here's the results of a quick javascript scan of their fake "review" page:
+http://jsunpack.jeek.org/?report=d695c3c5456a27e0beb2967a859b8150cae1ccb8
