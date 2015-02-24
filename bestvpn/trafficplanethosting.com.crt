@@ -1,0 +1,108 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1300782 (0x13d92e)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=GeoTrust, Inc., CN=RapidSSL CA
+        Validity
+            Not Before: Jul  5 15:02:31 2014 GMT
+            Not After : Jul  9 13:21:02 2015 GMT
+        Subject: serialNumber=6gkLMnUUkbjsESQ9v0uvNe--rSoLp/Qh, OU=GT52666741, OU=See www.rapidssl.com/resources/cps (c)14, OU=Domain Control Validated - RapidSSL(R), CN=*.trafficplanethosting.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d4:02:95:7d:5a:1e:63:32:b3:38:0a:08:a3:a1:
+                    85:f2:95:21:d2:50:15:34:91:df:a4:c4:82:9f:de:
+                    5e:db:aa:9a:35:a4:b8:f5:4f:e2:16:25:8f:88:e5:
+                    f8:b8:fd:ce:be:b8:34:00:d5:69:31:f7:91:9e:63:
+                    4d:61:a2:72:91:bd:b1:d8:23:c3:f2:98:4e:9b:14:
+                    a0:2f:85:bf:9a:ed:e3:e1:30:f0:e0:9c:09:d3:d1:
+                    ae:f9:1e:83:e8:44:5a:57:12:bb:8c:af:76:c5:bc:
+                    7a:31:fc:1b:ba:c8:93:a0:d1:cd:c4:f8:80:43:c7:
+                    77:e1:36:5f:e4:e4:e5:06:ac:19:bb:00:52:7a:2d:
+                    9f:ae:3c:be:dc:ae:db:49:fd:13:06:fe:67:4c:7c:
+                    90:a4:6c:21:b0:65:61:c1:65:fc:99:c3:58:8a:6e:
+                    03:b9:68:a5:e9:c0:4a:cb:2b:b6:36:4e:f9:22:8d:
+                    8e:09:c8:01:33:55:df:e9:b3:a5:53:9b:fe:41:50:
+                    1a:00:43:78:21:00:71:01:8a:be:a7:aa:24:fc:11:
+                    05:44:68:fe:72:37:37:28:c0:34:af:5c:fc:6e:66:
+                    ad:bb:06:bc:4b:99:d3:6b:aa:74:1f:53:79:b1:e5:
+                    7c:1d:99:c9:ed:3a:dd:47:61:94:a0:9b:31:d1:fd:
+                    e6:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:6B:69:3D:6A:18:42:4A:DD:8F:02:65:39:FD:35:24:86:78:91:16:30
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Alternative Name: 
+                DNS:*.trafficplanethosting.com, DNS:trafficplanethosting.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://rapidssl-crl.geotrust.com/crls/rapidssl.crl
+
+            X509v3 Subject Key Identifier: 
+                B2:FE:78:9E:73:DE:BB:15:84:A2:E8:D8:E2:6E:F0:C5:80:83:E6:DC
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://rapidssl-ocsp.geotrust.com
+                CA Issuers - URI:http://rapidssl-aia.geotrust.com/rapidssl.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.54
+                  CPS: http://www.geotrust.com/resources/cps
+
+    Signature Algorithm: sha1WithRSAEncryption
+         69:c1:b4:4c:38:58:b4:f1:77:3e:f8:88:7a:b2:a6:f9:28:bb:
+         57:13:f9:09:94:c5:fa:e7:1a:56:a7:6f:84:ac:d7:eb:32:21:
+         5a:de:3b:05:41:a9:c5:1e:ed:7d:0e:6c:fc:5c:e2:8c:4c:40:
+         9c:9f:fd:f8:80:eb:1f:e7:f4:7e:15:06:9d:a0:24:f0:87:7f:
+         fb:bd:6a:27:dd:ee:7a:1f:b0:ea:24:8f:32:4b:fe:14:71:e1:
+         96:68:c1:80:7c:e1:59:d3:bc:7f:3e:9e:bc:9d:8a:3a:33:25:
+         4a:45:9e:fa:d6:0d:ac:a4:04:e1:5c:23:2b:64:4e:e2:70:b6:
+         eb:f8:de:ca:11:e6:9d:46:19:22:a4:46:62:6e:c6:66:09:00:
+         44:5a:f6:2c:cf:e1:36:c9:30:f1:38:86:95:71:79:ff:a2:65:
+         a9:34:40:3f:32:e3:0a:fd:12:bb:2d:bd:94:0a:fe:4e:35:2d:
+         b0:36:d5:3b:81:64:c8:9e:68:c2:34:27:b0:e4:0b:4c:4d:d3:
+         cb:70:97:73:56:e9:1b:f4:de:83:bc:c6:d8:6b:ae:03:c6:be:
+         cd:69:f8:82:72:ab:a5:e4:19:12:91:3f:ef:36:d5:d8:49:63:
+         3a:cb:6a:4d:e0:33:c8:11:44:ce:37:a6:65:fe:55:b3:04:90:
+         aa:0c:ad:6e
+         
+         -----BEGIN CERTIFICATE-----
+MIIFVDCCBDygAwIBAgIDE9kuMA0GCSqGSIb3DQEBBQUAMDwxCzAJBgNVBAYTAlVT
+MRcwFQYDVQQKEw5HZW9UcnVzdCwgSW5jLjEUMBIGA1UEAxMLUmFwaWRTU0wgQ0Ew
+HhcNMTQwNzA1MTUwMjMxWhcNMTUwNzA5MTMyMTAyWjCByTEpMCcGA1UEBRMgNmdr
+TE1uVVVrYmpzRVNROXYwdXZOZS0tclNvTHAvUWgxEzARBgNVBAsTCkdUNTI2NjY3
+NDExMTAvBgNVBAsTKFNlZSB3d3cucmFwaWRzc2wuY29tL3Jlc291cmNlcy9jcHMg
+KGMpMTQxLzAtBgNVBAsTJkRvbWFpbiBDb250cm9sIFZhbGlkYXRlZCAtIFJhcGlk
+U1NMKFIpMSMwIQYDVQQDDBoqLnRyYWZmaWNwbGFuZXRob3N0aW5nLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANQClX1aHmMyszgKCKOhhfKVIdJQ
+FTSR36TEgp/eXtuqmjWkuPVP4hYlj4jl+Lj9zr64NADVaTH3kZ5jTWGicpG9sdgj
+w/KYTpsUoC+Fv5rt4+Ew8OCcCdPRrvkeg+hEWlcSu4yvdsW8ejH8G7rIk6DRzcT4
+gEPHd+E2X+Tk5QasGbsAUnotn648vtyu20n9Ewb+Z0x8kKRsIbBlYcFl/JnDWIpu
+A7lopenASssrtjZO+SKNjgnIATNV3+mzpVOb/kFQGgBDeCEAcQGKvqeqJPwRBURo
+/nI3NyjANK9c/G5mrbsGvEuZ02uqdB9TebHlfB2Zye063UdhlKCbMdH95gMCAwEA
+AaOCAc8wggHLMB8GA1UdIwQYMBaAFGtpPWoYQkrdjwJlOf01JIZ4kRYwMA4GA1Ud
+DwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPwYDVR0R
+BDgwNoIaKi50cmFmZmljcGxhbmV0aG9zdGluZy5jb22CGHRyYWZmaWNwbGFuZXRo
+b3N0aW5nLmNvbTBDBgNVHR8EPDA6MDigNqA0hjJodHRwOi8vcmFwaWRzc2wtY3Js
+Lmdlb3RydXN0LmNvbS9jcmxzL3JhcGlkc3NsLmNybDAdBgNVHQ4EFgQUsv54nnPe
+uxWEoujY4m7wxYCD5twwDAYDVR0TAQH/BAIwADB4BggrBgEFBQcBAQRsMGowLQYI
+KwYBBQUHMAGGIWh0dHA6Ly9yYXBpZHNzbC1vY3NwLmdlb3RydXN0LmNvbTA5Bggr
+BgEFBQcwAoYtaHR0cDovL3JhcGlkc3NsLWFpYS5nZW90cnVzdC5jb20vcmFwaWRz
+c2wuY3J0MEwGA1UdIARFMEMwQQYKYIZIAYb4RQEHNjAzMDEGCCsGAQUFBwIBFiVo
+dHRwOi8vd3d3Lmdlb3RydXN0LmNvbS9yZXNvdXJjZXMvY3BzMA0GCSqGSIb3DQEB
+BQUAA4IBAQBpwbRMOFi08Xc++Ih6sqb5KLtXE/kJlMX65xpWp2+ErNfrMiFa3jsF
+QanFHu19Dmz8XOKMTECcn/34gOsf5/R+FQadoCTwh3/7vWon3e56H7DqJI8yS/4U
+ceGWaMGAfOFZ07x/Pp68nYo6MyVKRZ761g2spAThXCMrZE7icLbr+N7KEeadRhki
+pEZibsZmCQBEWvYsz+E2yTDxOIaVcXn/omWpNEA/MuMK/RK7Lb2UCv5ONS2wNtU7
+gWTInmjCNCew5AtMTdPLcJdzVukb9N6DvMbYa64Dxr7NafiCcqul5BkSkT/vNtXY
+SWM6y2pN4DPIEUTON6Zl/lWzBJCqDK1u
+-----END CERTIFICATE-----
