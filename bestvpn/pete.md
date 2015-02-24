@@ -10,3 +10,7 @@ http://landing.buffered.com/unblock-content-pete/feed/
 
 
 (those all found on: landing.buffered.com/unblock-content-pete/ )
+
+
+Here's the affiliate tracking software they use:
+https://www.postaffiliatepro.com/
