@@ -1,0 +1,89 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 17525521210863692840 (0xf33728afe51aac28)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=MT, ST=MLT, L=Valletta, O=FreeVPN.me, OU=FreeVPN.me, CN=FreeVPN.me CA/name=FreeVPN.me/emailAddress=contact@freevpn.me
+        Validity
+            Not Before: Aug 20 06:52:45 2013 GMT
+            Not After : Aug 18 06:52:45 2023 GMT
+        Subject: C=MT, ST=MLT, L=Valletta, O=FreeVPN.me, OU=FreeVPN.me, CN=FreeVPN.me CA/name=FreeVPN.me/emailAddress=contact@freevpn.me
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:93:7c:fc:8d:12:20:26:1d:ae:36:db:56:45:03:
+                    6b:4f:b6:fc:b9:da:61:a2:6a:6a:d9:bc:c9:e9:e7:
+                    19:c4:b2:7c:bd:20:dc:77:68:cb:66:92:09:60:c0:
+                    74:2d:7a:6a:a0:1d:b5:d5:76:2a:a7:c2:26:65:fe:
+                    37:50:4e:3f:00:e2:8d:fb:dc:1c:18:88:e4:fd:63:
+                    25:48:d9:d6:27:1a:9d:2c:2b:17:b4:c9:71:e1:bf:
+                    c9:6a:79:0a:01:3b:d8:50:cf:b3:f5:bc:be:1d:6c:
+                    ee:ae:34:a6:b4:93:3a:59:60:ae:55:5f:22:4e:12:
+                    09:27:76:51:11:8c:65:a3:d1:de:c7:74:5f:67:38:
+                    c1:3e:99:e0:cd:53:17:e2:b9:92:66:b4:56:1b:b0:
+                    07:59:f8:f3:cf:20:f9:30:2a:f0:9a:0a:1d:2b:c1:
+                    73:3e:6f:0a:bb:63:86:99:cc:bb:37:32:76:c1:ef:
+                    65:f4:b2:d8:76:18:29:83:f9:bb:42:fb:a5:14:f9:
+                    ef:63:61:bb:aa:b2:8d:f9:44:f9:f8:cb:3d:ff:4c:
+                    96:da:f3:5e:87:16:3e:2f:4d:3c:e2:50:58:52:ce:
+                    54:68:60:e7:ce:cd:a1:c4:6e:50:d0:9d:36:12:74:
+                    c1:63:f8:38:7c:66:61:95:84:3e:18:bb:bb:a9:5f:
+                    49:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                34:B7:E4:EB:B3:7A:2B:78:72:BA:F6:3F:4B:93:6D:C9:23:78:A6:ED
+            X509v3 Authority Key Identifier: 
+                keyid:34:B7:E4:EB:B3:7A:2B:78:72:BA:F6:3F:4B:93:6D:C9:23:78:A6:ED
+                DirName:/C=MT/ST=MLT/L=Valletta/O=FreeVPN.me/OU=FreeVPN.me/CN=FreeVPN.me CA/name=FreeVPN.me/emailAddress=contact@freevpn.me
+                serial:F3:37:28:AF:E5:1A:AC:28
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+         02:ff:bc:75:9e:62:2d:26:de:05:b7:24:24:e6:7c:ee:ad:16:
+         34:47:62:cf:c3:b2:3c:88:80:0f:41:07:5b:4b:37:c2:38:4d:
+         66:96:a8:9e:c0:a7:a9:09:aa:11:47:dd:8a:0d:5f:da:19:53:
+         62:60:c3:41:4e:95:cb:6a:e4:60:63:af:88:d6:56:eb:e4:55:
+         b2:a9:0c:53:f3:be:61:7a:73:8b:42:45:39:92:c0:be:6a:13:
+         7c:e0:2d:2b:d4:74:af:ff:ca:10:14:42:1c:65:80:14:ba:d7:
+         53:0a:45:28:2e:d4:7b:2e:1a:9c:9c:dd:ee:1c:b9:1a:24:5f:
+         60:74:b0:08:49:27:e9:ec:bc:cc:2a:13:89:3f:8c:88:48:16:
+         86:f7:7e:23:3b:07:35:f2:7a:19:cd:78:4b:7f:de:1a:41:90:
+         02:4e:aa:e5:f6:30:5a:3d:88:5c:37:ab:77:4d:be:65:ad:f9:
+         63:2f:46:8d:41:9f:09:be:20:28:c5:3c:ec:db:02:f0:4f:9d:
+         3a:35:6d:88:00:1f:49:1a:74:bd:dc:a5:3f:70:59:fa:9e:af:
+         ce:87:84:8a:29:7c:40:8c:55:e1:ff:90:4b:ad:d1:62:d8:47:
+         3f:ee:5c:93:e4:a6:4a:49:41:0a:c1:b1:32:48:2f:2d:05:ef:
+         ea:59:96:ba
+         
+         -----BEGIN CERTIFICATE-----
+MIIE6DCCA9CgAwIBAgIJAPM3KK/lGqwoMA0GCSqGSIb3DQEBCwUAMIGoMQswCQYD
+VQQGEwJNVDEMMAoGA1UECBMDTUxUMREwDwYDVQQHEwhWYWxsZXR0YTETMBEGA1UE
+ChMKRnJlZVZQTi5tZTETMBEGA1UECxMKRnJlZVZQTi5tZTEWMBQGA1UEAxMNRnJl
+ZVZQTi5tZSBDQTETMBEGA1UEKRMKRnJlZVZQTi5tZTEhMB8GCSqGSIb3DQEJARYS
+Y29udGFjdEBmcmVldnBuLm1lMB4XDTEzMDgyMDA2NTI0NVoXDTIzMDgxODA2NTI0
+NVowgagxCzAJBgNVBAYTAk1UMQwwCgYDVQQIEwNNTFQxETAPBgNVBAcTCFZhbGxl
+dHRhMRMwEQYDVQQKEwpGcmVlVlBOLm1lMRMwEQYDVQQLEwpGcmVlVlBOLm1lMRYw
+FAYDVQQDEw1GcmVlVlBOLm1lIENBMRMwEQYDVQQpEwpGcmVlVlBOLm1lMSEwHwYJ
+KoZIhvcNAQkBFhJjb250YWN0QGZyZWV2cG4ubWUwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCTfPyNEiAmHa4221ZFA2tPtvy52mGiamrZvMnp5xnEsny9
+INx3aMtmkglgwHQtemqgHbXVdiqnwiZl/jdQTj8A4o373BwYiOT9YyVI2dYnGp0s
+Kxe0yXHhv8lqeQoBO9hQz7P1vL4dbO6uNKa0kzpZYK5VXyJOEgkndlERjGWj0d7H
+dF9nOME+meDNUxfiuZJmtFYbsAdZ+PPPIPkwKvCaCh0rwXM+bwq7Y4aZzLs3MnbB
+72X0sth2GCmD+btC+6UU+e9jYbuqso35RPn4yz3/TJba816HFj4vTTziUFhSzlRo
+YOfOzaHEblDQnTYSdMFj+Dh8ZmGVhD4Yu7upX0lBAgMBAAGjggERMIIBDTAdBgNV
+HQ4EFgQUNLfk67N6K3hyuvY/S5NtySN4pu0wgd0GA1UdIwSB1TCB0oAUNLfk67N6
+K3hyuvY/S5NtySN4pu2hga6kgaswgagxCzAJBgNVBAYTAk1UMQwwCgYDVQQIEwNN
+TFQxETAPBgNVBAcTCFZhbGxldHRhMRMwEQYDVQQKEwpGcmVlVlBOLm1lMRMwEQYD
+VQQLEwpGcmVlVlBOLm1lMRYwFAYDVQQDEw1GcmVlVlBOLm1lIENBMRMwEQYDVQQp
+EwpGcmVlVlBOLm1lMSEwHwYJKoZIhvcNAQkBFhJjb250YWN0QGZyZWV2cG4ubWWC
+CQDzNyiv5RqsKDAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQAC/7x1
+nmItJt4FtyQk5nzurRY0R2LPw7I8iIAPQQdbSzfCOE1mlqiewKepCaoRR92KDV/a
+GVNiYMNBTpXLauRgY6+I1lbr5FWyqQxT875henOLQkU5ksC+ahN84C0r1HSv/8oQ
+FEIcZYAUutdTCkUoLtR7LhqcnN3uHLkaJF9gdLAISSfp7LzMKhOJP4yISBaG934j
+Owc18noZzXhLf94aQZACTqrl9jBaPYhcN6t3Tb5lrfljL0aNQZ8JviAoxTzs2wLw
+T506NW2IAB9JGnS93KU/cFn6nq/Oh4SKKXxAjFXh/5BLrdFi2Ec/7lyT5KZKSUEK
+wbEySC8tBe/qWZa6
+-----END CERTIFICATE-----
