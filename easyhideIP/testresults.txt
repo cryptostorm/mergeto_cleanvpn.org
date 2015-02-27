@@ -1,3 +1,9 @@
 Holy crap:
 
 https://www.robtex.com/en/advisory/dns/com/easy-hide-ip/cdn/
+
+
+
+Test results of javascript running on their downloads page:
+
+http://jsunpack.jeek.org/?report=171bcc84b88f3c2c065da4df284fc4f0fdcc8e34
