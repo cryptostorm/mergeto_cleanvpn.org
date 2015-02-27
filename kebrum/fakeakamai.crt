@@ -1,0 +1,93 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            02:00:00:00:00:01:46:91:cb:0b:26:5b:ef:fe
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: O=Cybertrust Inc, CN=Cybertrust Public SureServer SV CA
+        Validity
+            Not Before: Jun 12 20:35:45 2014 GMT
+            Not After : Jun 12 20:35:45 2015 GMT
+        Subject: C=US, ST=MA, L=Cambridge, O=Akamai Technologies, Inc., CN=a248.e.akamai.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b1:50:be:18:42:78:da:59:48:15:14:be:23:84:
+                    d5:9b:b5:7c:d6:fa:5d:62:c3:1a:00:ec:d0:70:03:
+                    0e:74:00:1e:cf:73:ed:21:c6:af:90:d8:7f:d0:b0:
+                    dc:99:55:c8:e1:e8:a9:28:83:79:ee:89:9c:e5:72:
+                    16:40:45:90:ca:0f:a7:a6:b1:39:f2:c3:34:83:86:
+                    de:74:c6:48:10:d3:e8:8d:81:0c:88:b7:40:0a:b5:
+                    1b:30:77:72:45:8b:ee:69:57:99:eb:90:c2:76:4b:
+                    f9:e0:ee:eb:b8:4f:1d:d8:2c:aa:f5:49:08:e7:5a:
+                    09:ff:a3:39:96:be:44:e2:0a:ce:4b:6a:f7:02:c1:
+                    ae:00:03:aa:e5:b2:aa:be:07:a7:25:30:c5:4e:01:
+                    d5:e0:df:c8:7d:d0:db:35:2b:5e:d9:08:27:75:0b:
+                    41:36:83:b0:bd:e1:a4:d0:1f:8e:2e:57:d5:13:9d:
+                    d3:1b:5b:f0:22:e9:1d:58:df:f2:8d:7e:90:ee:90:
+                    3a:4c:13:40:99:b1:a2:e2:26:f4:86:cd:96:7c:9c:
+                    21:ca:73:7e:40:2e:b4:f0:9e:90:9d:26:44:86:9d:
+                    fe:60:fa:f0:1f:eb:96:70:aa:d3:1c:cd:3b:da:e8:
+                    d9:95:4c:8c:b5:df:df:85:b3:5f:60:b2:67:c1:b0:
+                    04:1b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:04:98:60:DF:80:1B:96:49:5D:65:56:2D:A5:2C:09:24:0A:EC:DC:B9
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.omniroot.com/PublicSureServerSV.crl
+
+            X509v3 Subject Key Identifier: 
+                70:14:DB:83:91:FF:BC:43:DF:68:99:38:06:D6:5C:C7:14:47:AE:C2
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            Netscape Cert Type: 
+                SSL Client, SSL Server
+            X509v3 Subject Alternative Name: 
+                DNS:*.akamaihd.net, DNS:*.akamaihd-staging.net, DNS:a248.e.akamai.net, DNS:*.akamaized.net, DNS:*.akamaized-staging.net
+    Signature Algorithm: sha1WithRSAEncryption
+         46:e7:ad:32:dd:81:cf:50:bb:58:31:f4:59:93:8a:4f:6c:58:
+         c8:12:52:a2:af:b0:1c:72:20:ff:d5:1c:d5:2a:39:59:12:8a:
+         56:d8:af:45:c5:fb:ae:f0:62:c2:6e:40:5a:cc:c3:b7:67:e4:
+         87:da:80:9c:c2:c0:10:30:04:e1:5e:bf:ee:a7:19:36:2d:b9:
+         29:9a:b9:21:bc:36:22:0d:d4:a2:cd:ce:ec:02:97:c2:db:3e:
+         4d:e7:99:78:19:4e:ab:3f:ca:5f:62:61:23:1f:a3:48:ec:3a:
+         32:f5:4e:e2:b2:24:a2:f6:a4:41:3b:5c:46:07:31:13:81:b0:
+         a5:ca:51:8f:1b:60:22:ed:f8:60:1c:3f:fd:62:18:f0:0e:2e:
+         b6:44:f2:43:03:4a:a5:ac:1b:29:a8:ef:99:ea:bf:8c:30:70:
+         00:c5:2e:28:a1:0f:00:bc:fd:61:be:b1:4f:5f:a5:76:99:a6:
+         fe:08:89:2f:2d:ed:2b:ec:d6:07:f9:61:fd:3b:21:1a:67:fe:
+         4a:d1:1b:6c:00:1e:28:46:59:c6:cc:a6:a1:de:4e:85:49:0a:
+         2e:52:dc:d0:6d:f5:6d:b6:d2:82:cc:e0:8e:a2:c1:40:17:06:
+         09:fb:0f:85:15:dd:a8:b0:78:1b:26:6d:74:15:26:14:0e:46:
+         07:ba:b5:0f
+         
+         
+         -----BEGIN CERTIFICATE-----
+MIIDUjCCArugAwIBAgIJANIa+D/u9pZ8MA0GCSqGSIb3DQEBBQUAMHoxCzAJBgNV
+BAYTAlNDMQswCQYDVQQIEwJTQzERMA8GA1UEBxMIVmljdG9yaWExFTATBgNVBAoT
+DEtlYnJ1bSBDb3JwLjETMBEGA1UEAxMKa2VicnVtLmNvbTEfMB0GCSqGSIb3DQEJ
+ARYQYWRtaW5Aa2VicnVtLmNvbTAeFw0xMTAxMTUxOTE3MTBaFw0yMTAxMTIxOTE3
+MTBaMHoxCzAJBgNVBAYTAlNDMQswCQYDVQQIEwJTQzERMA8GA1UEBxMIVmljdG9y
+aWExFTATBgNVBAoTDEtlYnJ1bSBDb3JwLjETMBEGA1UEAxMKa2VicnVtLmNvbTEf
+MB0GCSqGSIb3DQEJARYQYWRtaW5Aa2VicnVtLmNvbTCBnzANBgkqhkiG9w0BAQEF
+AAOBjQAwgYkCgYEAykuEqVd8lEKKR0Fqzh9j+LuQF8v8L0U9MxXuytXjcNjM4GO0
+PHtvaLQa3xH5b80u9fgoJ9PqTPSk7CUx7wo2IMpaIzlnDcxcCeXXWtpCxhuT1nYc
+BdHKHXfMw3n5MdBx32mL+jittLx9ujOeTBvBjPnF72th+SimWTGP6fosZqECAwEA
+AaOB3zCB3DAdBgNVHQ4EFgQUuwWDbr+bFADFS8rwZgGQFOK03bcwgawGA1UdIwSB
+pDCBoYAUuwWDbr+bFADFS8rwZgGQFOK03behfqR8MHoxCzAJBgNVBAYTAlNDMQsw
+CQYDVQQIEwJTQzERMA8GA1UEBxMIVmljdG9yaWExFTATBgNVBAoTDEtlYnJ1bSBD
+b3JwLjETMBEGA1UEAxMKa2VicnVtLmNvbTEfMB0GCSqGSIb3DQEJARYQYWRtaW5A
+a2VicnVtLmNvbYIJANIa+D/u9pZ8MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEF
+BQADgYEApyiSIezMgY9MtnS50qGTbXhSXg2y2IctVRidVlMZpNFqv6hM84+auyF3
+dGEVkmtwz0JXNNnPeW/ZJH6SmV5/TjZ227QzxqgMNk95+QJCUcjWeZZGmw5QJMbh
+DEaGKzFjgBO9GLT3LLUpm3k/WnZgQvz7/bEcbKHkKPPOkCmgzDM=
+-----END CERTIFICATE-----
