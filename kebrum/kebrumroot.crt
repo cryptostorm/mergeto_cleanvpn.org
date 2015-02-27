@@ -1,0 +1,64 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 15139686050835109500 (0xd21af83feef6967c)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=SC, ST=SC, L=Victoria, O=Kebrum Corp., CN=kebrum.com/emailAddress=admin@kebrum.com
+        Validity
+            Not Before: Jan 15 19:17:10 2011 GMT
+            Not After : Jan 12 19:17:10 2021 GMT
+        Subject: C=SC, ST=SC, L=Victoria, O=Kebrum Corp., CN=kebrum.com/emailAddress=admin@kebrum.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ca:4b:84:a9:57:7c:94:42:8a:47:41:6a:ce:1f:
+                    63:f8:bb:90:17:cb:fc:2f:45:3d:33:15:ee:ca:d5:
+                    e3:70:d8:cc:e0:63:b4:3c:7b:6f:68:b4:1a:df:11:
+                    f9:6f:cd:2e:f5:f8:28:27:d3:ea:4c:f4:a4:ec:25:
+                    31:ef:0a:36:20:ca:5a:23:39:67:0d:cc:5c:09:e5:
+                    d7:5a:da:42:c6:1b:93:d6:76:1c:05:d1:ca:1d:77:
+                    cc:c3:79:f9:31:d0:71:df:69:8b:fa:38:ad:b4:bc:
+                    7d:ba:33:9e:4c:1b:c1:8c:f9:c5:ef:6b:61:f9:28:
+                    a6:59:31:8f:e9:fa:2c:66:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                BB:05:83:6E:BF:9B:14:00:C5:4B:CA:F0:66:01:90:14:E2:B4:DD:B7
+            X509v3 Authority Key Identifier: 
+                keyid:BB:05:83:6E:BF:9B:14:00:C5:4B:CA:F0:66:01:90:14:E2:B4:DD:B7
+                DirName:/C=SC/ST=SC/L=Victoria/O=Kebrum Corp./CN=kebrum.com/emailAddress=admin@kebrum.com
+                serial:D2:1A:F8:3F:EE:F6:96:7C
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         a7:28:92:21:ec:cc:81:8f:4c:b6:74:b9:d2:a1:93:6d:78:52:
+         5e:0d:b2:d8:87:2d:55:18:9d:56:53:19:a4:d1:6a:bf:a8:4c:
+         f3:8f:9a:bb:21:77:74:61:15:92:6b:70:cf:42:57:34:d9:cf:
+         79:6f:d9:24:7e:92:99:5e:7f:4e:36:76:db:b4:33:c6:a8:0c:
+         36:4f:79:f9:02:42:51:c8:d6:79:96:46:9b:0e:50:24:c6:e1:
+         0c:46:86:2b:31:63:80:13:bd:18:b4:f7:2c:b5:29:9b:79:3f:
+         5a:76:60:42:fc:fb:fd:b1:1c:6c:a1:e4:28:f3:ce:90:29:a0:
+         cc:33
+         
+         -----BEGIN CERTIFICATE-----
+MIIDUjCCArugAwIBAgIJANIa+D/u9pZ8MA0GCSqGSIb3DQEBBQUAMHoxCzAJBgNV
+BAYTAlNDMQswCQYDVQQIEwJTQzERMA8GA1UEBxMIVmljdG9yaWExFTATBgNVBAoT
+DEtlYnJ1bSBDb3JwLjETMBEGA1UEAxMKa2VicnVtLmNvbTEfMB0GCSqGSIb3DQEJ
+ARYQYWRtaW5Aa2VicnVtLmNvbTAeFw0xMTAxMTUxOTE3MTBaFw0yMTAxMTIxOTE3
+MTBaMHoxCzAJBgNVBAYTAlNDMQswCQYDVQQIEwJTQzERMA8GA1UEBxMIVmljdG9y
+aWExFTATBgNVBAoTDEtlYnJ1bSBDb3JwLjETMBEGA1UEAxMKa2VicnVtLmNvbTEf
+MB0GCSqGSIb3DQEJARYQYWRtaW5Aa2VicnVtLmNvbTCBnzANBgkqhkiG9w0BAQEF
+AAOBjQAwgYkCgYEAykuEqVd8lEKKR0Fqzh9j+LuQF8v8L0U9MxXuytXjcNjM4GO0
+PHtvaLQa3xH5b80u9fgoJ9PqTPSk7CUx7wo2IMpaIzlnDcxcCeXXWtpCxhuT1nYc
+BdHKHXfMw3n5MdBx32mL+jittLx9ujOeTBvBjPnF72th+SimWTGP6fosZqECAwEA
+AaOB3zCB3DAdBgNVHQ4EFgQUuwWDbr+bFADFS8rwZgGQFOK03bcwgawGA1UdIwSB
+pDCBoYAUuwWDbr+bFADFS8rwZgGQFOK03behfqR8MHoxCzAJBgNVBAYTAlNDMQsw
+CQYDVQQIEwJTQzERMA8GA1UEBxMIVmljdG9yaWExFTATBgNVBAoTDEtlYnJ1bSBD
+b3JwLjETMBEGA1UEAxMKa2VicnVtLmNvbTEfMB0GCSqGSIb3DQEJARYQYWRtaW5A
+a2VicnVtLmNvbYIJANIa+D/u9pZ8MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEF
+BQADgYEApyiSIezMgY9MtnS50qGTbXhSXg2y2IctVRidVlMZpNFqv6hM84+auyF3
+dGEVkmtwz0JXNNnPeW/ZJH6SmV5/TjZ227QzxqgMNk95+QJCUcjWeZZGmw5QJMbh
+DEaGKzFjgBO9GLT3LLUpm3k/WnZgQvz7/bEcbKHkKPPOkCmgzDM=
+-----END CERTIFICATE-----
